@@ -1,0 +1,7 @@
+<project>
+<modelVersion>4.0.0</modelVersion>            -------> version of pom.xml
+<groupId>Imranorg</groupId>                    ------------->orginization name
+<artifactId>myjavaproject</artifactId>          ------->prject name based on this war file/jar file will be create 
+<version>1.0</version>                        --------->relese version 
+<packaging>jar</packaging>                      ---------->file formate
+</project>
